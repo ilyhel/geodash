@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geodash/static/css/main.66930e45.chunk.css",
+    "main.js": "/geodash/static/js/main.d70647c2.chunk.js",
+    "main.js.map": "/geodash/static/js/main.d70647c2.chunk.js.map",
+    "runtime-main.js": "/geodash/static/js/runtime-main.b5a7ea33.js",
+    "runtime-main.js.map": "/geodash/static/js/runtime-main.b5a7ea33.js.map",
+    "static/js/2.66528e14.chunk.js": "/geodash/static/js/2.66528e14.chunk.js",
+    "static/js/2.66528e14.chunk.js.map": "/geodash/static/js/2.66528e14.chunk.js.map",
+    "index.html": "/geodash/index.html",
+    "precache-manifest.e39fabbe1794e64684b6b39562e3d46b.js": "/geodash/precache-manifest.e39fabbe1794e64684b6b39562e3d46b.js",
+    "service-worker.js": "/geodash/service-worker.js",
+    "static/css/main.66930e45.chunk.css.map": "/geodash/static/css/main.66930e45.chunk.css.map",
+    "static/js/2.66528e14.chunk.js.LICENSE": "/geodash/static/js/2.66528e14.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5a7ea33.js",
+    "static/js/2.66528e14.chunk.js",
+    "static/css/main.66930e45.chunk.css",
+    "static/js/main.d70647c2.chunk.js"
+  ]
+}
