@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/geodash/precache-manifest.e39fabbe1794e64684b6b39562e3d46b.js"
+  "/geodash/precache-manifest.284ecbcc3342764bca9979ea2b90af4d.js"
 );
 
 self.addEventListener('message', (event) => {
