@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/geodash/static/css/main.66930e45.chunk.css",
-    "main.js": "/geodash/static/js/main.fae80a16.chunk.js",
-    "main.js.map": "/geodash/static/js/main.fae80a16.chunk.js.map",
+    "main.js": "/geodash/static/js/main.3e72256a.chunk.js",
+    "main.js.map": "/geodash/static/js/main.3e72256a.chunk.js.map",
     "runtime-main.js": "/geodash/static/js/runtime-main.b5a7ea33.js",
     "runtime-main.js.map": "/geodash/static/js/runtime-main.b5a7ea33.js.map",
-    "static/js/2.66528e14.chunk.js": "/geodash/static/js/2.66528e14.chunk.js",
-    "static/js/2.66528e14.chunk.js.map": "/geodash/static/js/2.66528e14.chunk.js.map",
+    "static/js/2.c4fb3796.chunk.js": "/geodash/static/js/2.c4fb3796.chunk.js",
+    "static/js/2.c4fb3796.chunk.js.map": "/geodash/static/js/2.c4fb3796.chunk.js.map",
     "index.html": "/geodash/index.html",
-    "precache-manifest.284ecbcc3342764bca9979ea2b90af4d.js": "/geodash/precache-manifest.284ecbcc3342764bca9979ea2b90af4d.js",
+    "precache-manifest.5e9f413b49ebc5b07b72de41351b4bed.js": "/geodash/precache-manifest.5e9f413b49ebc5b07b72de41351b4bed.js",
     "service-worker.js": "/geodash/service-worker.js",
     "static/css/main.66930e45.chunk.css.map": "/geodash/static/css/main.66930e45.chunk.css.map",
-    "static/js/2.66528e14.chunk.js.LICENSE": "/geodash/static/js/2.66528e14.chunk.js.LICENSE"
+    "static/js/2.c4fb3796.chunk.js.LICENSE": "/geodash/static/js/2.c4fb3796.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.b5a7ea33.js",
-    "static/js/2.66528e14.chunk.js",
+    "static/js/2.c4fb3796.chunk.js",
     "static/css/main.66930e45.chunk.css",
-    "static/js/main.fae80a16.chunk.js"
+    "static/js/main.3e72256a.chunk.js"
   ]
 }
