@@ -17,7 +17,12 @@ export const jsonfile = {
         id: "003",
         component: "rectv2",
         properties: "funcircle"
-    }
+    },
+    {
+      id: "004",
+      component: "undifined",
+      properties: "funcircle"
+  }
       ]
     }
   };

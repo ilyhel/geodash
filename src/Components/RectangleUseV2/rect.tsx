@@ -6,6 +6,10 @@ import { IRectProps } from "../Circle/IProps";
 import { JsonDecoder } from 'ts.data.json';
 import { serialize, deserialize } from "v8";
 
+
+
+
+
 // Componenets expose State to provider
 const RECTv2Exposer = (props) => {
      
@@ -36,12 +40,13 @@ const RecState2:IRectState = {
 
 
 // connect(state=>({propName:state.prop}),{function1, function2})(bindToComponenets)
-const Rectv2 = (props) => {
+const Rectv2 = (props,{}) => {
     console.log("props 2 ",props) ;
     //IStates{ width:"120"}
    
-    const [_, { increment }] = useStore() as any[];
-    
+    const [_,  {increment} ] = useStore() as any[];
+  
+    console.log("useStore",_)
     return (
         <>
          <div>
@@ -51,7 +56,7 @@ const Rectv2 = (props) => {
             </svg>
             {_.RecState2.width}
             <button>reset</button>
-            <button onClick={() => increment(2)}>incriment width</button>
+            <button onClick={() => {increment(2)}}>incriment width</button>
             <button>incriment height</button>
             <button>Set Color</button>
             </div>
